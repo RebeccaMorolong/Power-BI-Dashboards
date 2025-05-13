@@ -1,4 +1,4 @@
-# Power-BI-Dashboards
+
 
 # Customer Churn Analysis Dashboard
 This repository contains a comprehensive Customer Churn Analysis Dashboard designed to help businesses understand and visualize customer churn patterns. The dashboard provides actionable insights into churn rates by age, gender, contract type, payment method, and tenure across different countries.
